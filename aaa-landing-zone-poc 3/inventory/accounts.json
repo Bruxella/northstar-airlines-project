@@ -1,0 +1,8 @@
+[
+  {"id":"111111111111","env":"development"},
+  {"id":"222222222222","env":"testing"},
+  {"id":"333333333333","env":"production"},
+  {"id":"444444444444","env":"production"},
+  {"id":"555555555555","env":"development"},
+  {"id":"666666666666","env":"testing"}
+]
